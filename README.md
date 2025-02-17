@@ -86,7 +86,7 @@ Our platform leverages a Multi-Agent System architecture where each agent specia
 ```bash
 # Clone the repository
 git clone https://github.com/
-cd codas/eliza
+cd PumpOS/eliza
 
 # Install dependencies
 pnpm install --no-frozen-lockfile
